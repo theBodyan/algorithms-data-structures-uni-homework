@@ -1,0 +1,3 @@
+/home/bodyan/dev/C++/homework/algoDS_II/BST/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bodyan/dev/C++/homework/algoDS_II/BST/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bodyan/dev/C++/homework/algoDS_II/BST/cmake-build-debug/CMakeFiles/BST.dir

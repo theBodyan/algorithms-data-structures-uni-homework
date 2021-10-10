@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bodyan/dev/C++/homework/algoDS_II/HuffmanCode/HCode.h
+string.h
+-
+stdio.h
+-
+iostream
+-
+
+/home/bodyan/dev/C++/homework/algoDS_II/HuffmanCode/main.cpp
+iostream
+-
+HCode.h
+/home/bodyan/dev/C++/homework/algoDS_II/HuffmanCode/HCode.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/OBST.dir/BinTree.cpp.o CMakeFiles/OBST.dir/BST.cpp.o CMakeFiles/OBST.dir/main.cpp.o CMakeFiles/OBST.dir/OBST.cpp.o -o OBST 

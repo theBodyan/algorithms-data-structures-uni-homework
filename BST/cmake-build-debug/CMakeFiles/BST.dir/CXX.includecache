@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bodyan/dev/C++/homework/algoDS_II/BST/BST.cpp
+BST.h
+/home/bodyan/dev/C++/homework/algoDS_II/BST/BST.h
+
+/home/bodyan/dev/C++/homework/algoDS_II/BST/BST.h
+BinTree.h
+/home/bodyan/dev/C++/homework/algoDS_II/BST/BinTree.h
+
+/home/bodyan/dev/C++/homework/algoDS_II/BST/BinTree.h
+iostream
+-
+queue
+-
+
+/home/bodyan/dev/C++/homework/algoDS_II/BST/main.cpp
+iostream
+-
+time.h
+-
+BST.h
+/home/bodyan/dev/C++/homework/algoDS_II/BST/BST.h
+
